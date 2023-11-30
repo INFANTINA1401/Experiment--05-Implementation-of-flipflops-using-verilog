@@ -109,16 +109,28 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:INFANTINA MARIA L 
+RegisterNumber:23012526  
 */
+![CODE DFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/cf2b82d4-70f5-4309-880e-54adc7897cbf)
+![WAVEFORM DFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/55f3012b-975a-47e6-91d6-033ccd2d68fb)
+![CODE TFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/bb7b57ea-2c21-412f-84fb-42850b3b72ef)
+![WAVEFORM TFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/46a67e4f-b26f-427d-a832-8511218042fa)
+![CODE JK](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/96721648-6266-481e-a5fd-0ce15f96ab99)
+![WAVEFORM JK](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/249c14fc-4746-4d9b-bd4b-58c364c022f2)
+![CODE SR](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/41de9279-2bc7-45e1-b250-67c6e2912b65)
+![WAVEFORM SR](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/6dd5d998-4e22-440c-8f71-f53e5125051b)
 
 
 
 
 
 
-### RTL LOGIC FOR FLIPFLOPS 
+### RTL LOGIC FOR FLIPFLOPS
+![LOGIC GATE DFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/6a6864d7-799c-46ef-be5f-6e8fb78f7f14)
+![LOGIC GATE TFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/b4d111d5-6b92-4503-9340-812fb412f2be)
+![LOGIC GATE JK](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/9dd21d8d-dce4-402b-803f-63ccc1bd37ca)
+![LOGIC GATE SR](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/9324ba88-87f7-4a56-a7cb-a2a3e03d52b7)
 
 
 
@@ -129,6 +141,12 @@ RegisterNumber:
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+![TIMELINE DFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/75e4c4ea-39c1-43f8-8a4d-d35259a77461)
+![TIMELINE TFF](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/52de785d-11b7-4e48-9202-d802887bf838)
+![TIMELINE JK](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/0be2bf79-32d6-499d-9253-83bb2ed8fd9e)
+![TIMELINE SR](https://github.com/INFANTINA1401/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147313821/de20783f-9e10-4a84-84bd-0b6cf6ea2861)
+
+
 
 
 
